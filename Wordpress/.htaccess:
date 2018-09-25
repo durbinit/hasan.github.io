@@ -1,0 +1,9 @@
+php_value max_execution_time 6000
+
+php_value max_input_vars 3000
+php_value upload_max_filesize 1000M
+php_value post_max_size 2000M
+
+
+
+define( 'WP_MEMORY_LIMIT', '96M' );
