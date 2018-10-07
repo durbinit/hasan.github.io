@@ -6,4 +6,4 @@ php_value post_max_size 2000M
 
 
 
-define( 'WP_MEMORY_LIMIT', '96M' );
+define( 'WP_MEMORY_LIMIT', '256M' );
